@@ -34,4 +34,5 @@ Para poder hacer funcionar el video streaming desde la Raspberry Pi utilizando W
 3) https://www.linux-projects.org/uv4l/tutorials/janus-gateway/
 
 Parte del código que es utilizado para la comunicación de los motores y servos del robot fue obtenido del los tutoriales del kit de robótica:
-https://github.com/Freenove/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi
+
+1) https://github.com/Freenove/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi
