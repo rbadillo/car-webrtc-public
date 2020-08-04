@@ -12,7 +12,7 @@ La carpeta de raspberry_pi contiene 3 sub-carpetas:
 
 3) video_streaming: La cual contiene el código para inicializar el video streaming del robot.
 
-# Server (Relay)
+# Server
 
 La carpeta de server contiene 2 sub-carpetas:
 
